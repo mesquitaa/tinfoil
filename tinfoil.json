@@ -6,6 +6,26 @@
             "action": "add"
         },
         {
+            "url": "https://liberashop.rs/roms",
+            "title": "LiveraShop Retro",
+            "action": "add"
+        },
+        {
+            "url": "https://liberashop.rs/",
+            "title": "Libera Shop",
+            "action": "add"
+        },
+        {
+            "url": "https://tinfoil.ultranx.ru/tinfoil",
+            "title": "Ultra NX Shop",
+            "action": "add"
+        },
+        {
+            "url": "https://tinfoil.oragne.dev/tinfoil.json",
+            "title": "Oragne Shop",
+            "action": "add"
+        },
+        {
             "url": "https://nx-retro.ghostland.at",
             "title": "Ghost eShop RETRO",
             "action": "add"
