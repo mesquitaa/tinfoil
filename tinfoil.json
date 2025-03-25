@@ -1,0 +1,90 @@
+{
+    "locations": [
+        {
+            "url": "https://nx.ghostland.at",
+            "title": "Ghost eShop",
+            "action": "add"
+        },
+        {
+            "url": "https://nx-retro.ghostland.at",
+            "title": "Ghost eShop RETRO",
+            "action": "add"
+        },
+        {
+            "url": "https://nx-saves.ghostland.at",
+            "title": "NX Shared Saves",
+            "action": "add"
+        },
+        {
+            "url": "https://quotanx.in",
+            "title": "QuotaNX",
+            "action": "add"
+        },
+        {
+            "url": "https://stealthshop.cf",
+            "title": "StealthShop",
+            "action": "add"
+        },
+        {
+            "url": "https://stealthshop.ga",
+            "title": "StealthShopGA",
+            "action": "add"
+        },
+        {
+            "url": "https://titz.cf",
+            "title": "TitzShop",
+            "action": "add"
+        },
+        {
+            "url": "https://titz.ga",
+            "title": "TitzShopGA",
+            "action": "add"
+        },
+        {
+            "url": "https://Pengu.us",
+            "title": "Pengu Shop US",
+            "action": "add"
+        },
+        {
+            "url": "https://Aliengaming.uk",
+            "title": "AliengamingShop",
+            "action": "add"
+        },
+        {
+            "url": "https://switch.teknik.app",
+            "title": "TeknikShop",
+            "action": "add"
+        },
+        {
+            "url": "https://quotashop.ml",
+            "title": "QuotaShop",
+            "action": "add"
+        },
+        {
+            "url": "https://redump.ga",
+            "title": "ReDUMPShop",
+            "action": "add"
+        },
+        {
+            "url": "https://pengu.ga",
+            "title": "Pengu Shop",
+            "action": "add"
+        },
+        {
+            "url": "https://tiny.cc/eeveesaveproject",
+            "title": "Eevee Save Project",
+            "action": "add"
+        },
+        {
+            "url": "https://tiny.cc/turtleshop",
+            "title": "Turtle Shop Project",
+            "action": "add"
+        },
+        {
+            "url": "https://rebrand.ly/UPStash",
+            "title": "UnderPrivileged Shop",
+            "action": "add"
+        }
+    ],
+    "success": "Welcome to Ultimate server which is maintained by mesquitaa.\n\nThis service is FREE. Only for personal use and don't pay for it"
+}
