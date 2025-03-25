@@ -21,6 +21,16 @@
             "action": "add"
         },
         {
+            "url": "https://not.ultranx.ru/tinfoil",
+            "title": "NOT Ultra NX Shop",
+            "action": "add"
+        },
+        {
+            "url": "https://not.ultranx.ru/",
+            "title": "NOT Ultra Shop",
+            "action": "add"
+        },
+        {
             "url": "https://tinfoil.oragne.dev/tinfoil.json",
             "title": "Oragne Shop",
             "action": "add"
