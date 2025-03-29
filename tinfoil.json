@@ -116,6 +116,12 @@
             "action": "add"
         },
         {
+            "url": "https://vampitech.net/tinfoil",
+            "title": "Grat Shop Project",
+            "action": "add"
+        },
+    
+        {
             "url": "https://rebrand.ly/UPStash",
             "title": "UnderPrivileged Shop",
             "action": "add"
