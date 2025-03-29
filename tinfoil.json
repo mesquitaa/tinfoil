@@ -111,6 +111,11 @@
             "action": "add"
         },
         {
+            "url": "https://grat.pages.dev/",
+            "title": "Grat Shop Project",
+            "action": "add"
+        },
+        {
             "url": "https://rebrand.ly/UPStash",
             "title": "UnderPrivileged Shop",
             "action": "add"
