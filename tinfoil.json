@@ -120,7 +120,11 @@
             "title": "Grat Shop Project",
             "action": "add"
         },
-    
+        {
+            "url": "https://myrincon.es/net/Zenten/",
+            "title": "Kronos Zenten Shop",
+            "action": "add"
+        },
         {
             "url": "https://rebrand.ly/UPStash",
             "title": "UnderPrivileged Shop",
